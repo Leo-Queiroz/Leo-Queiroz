@@ -8,8 +8,7 @@ Me chamo Leonardo de Queiroz, tenho 19 anos e sou natural do Rio De Janeiro. Con
     <a href=https://www.instagram.com/leonardo.queiirozz/>
         <img 
             title="Meu Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-@Instagram?color=%23E1306C&logo=instagram&logoColor=white&style=for-the-badge
-            "
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-@Instagram?color=%23E1306C&logo=instagram&logoColor=white&style=for-the-badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"
         />
     </a>
     <a href="https://www.linkedin.com/in/leonardo-j%C3%BAnior-56191b31a/">
@@ -22,8 +21,7 @@ Me chamo Leonardo de Queiroz, tenho 19 anos e sou natural do Rio De Janeiro. Con
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/GitHub-Projetos?color=%23181717&logo=github&logoColor=white&style=for-the-badge
-            "
+            src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"
         />
     </a>
     <a href = "https://wa.me/5524992904999">
@@ -36,8 +34,8 @@ Me chamo Leonardo de Queiroz, tenho 19 anos e sou natural do Rio De Janeiro. Con
         <img
        alt= "email"
        title = "Meu email"
-       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-       "/>
+       src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"
+        />
 </p>
 
 ---
