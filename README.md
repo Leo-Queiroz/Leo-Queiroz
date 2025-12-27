@@ -8,7 +8,7 @@ Me chamo Leonardo de Queiroz, tenho 19 anos e sou natural do Rio De Janeiro. Con
     <a href=https://www.instagram.com/leonardo.queiirozz/>
         <img 
             title="Meu Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-@Instagram?color=%23E1306C&logo=instagram&logoColor=white&style=for-the-badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"
         />
     </a>
     <a href="https://www.linkedin.com/in/leonardo-j%C3%BAnior-56191b31a/">
